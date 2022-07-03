@@ -15,7 +15,8 @@
   - Yes, this linear model predicts mpg of MechaCar prototypes effectively. The reasoning is because the R-squared value is 0.7149, which means roughly 71% of the variablility of our dependent variable is explained using this model. Also, the p-value is far less than 0.05% which gives us great confidence in rejecting the null hypothesis.
 
 See below for the summary statistics:
-[Linear Regression Summary Stats](Images/Lin_Reg_Summary.png)
+
+<img src="Images/Lin_Reg_Summary.png" width="400" height="400">
 
 ### Summary Statistics on Suspension Coils
 
